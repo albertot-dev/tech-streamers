@@ -9,6 +9,7 @@ Hagamos crecer la comunidad en Twitch!
 ##### 🐣 Hola, soy Ari 🐙
 ##### Soy enfermera 👩🏻‍⚕️ y psicopedagoga 👩🏻‍🏫 de Venezuela y ahora programadora junior👩🏻‍💻 en Madrid. Mamá de Sebas 👩‍👦 y tuitera.
 ##### Tecnologías
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white)
 ##### Horario
 
 ***
@@ -64,3 +65,41 @@ Hagamos crecer la comunidad en Twitch!
 #### Horario
 
 ***
+
+## baumannzone [![Twitch](https://img.shields.io/badge/-ver%20en%20Twitch-9146FF?logo=Twitch&logoColor=white)](https://twitch.tv/baumannzone)
+##### Soy Jorge Baumann, FullStack Developer en #RambitoJS. Desarrollo web, tecnología y open source. Organizo OSWeekends.
+
+#### Tecnologías
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+#### Horario
+
+***
+
+## carlosazaustre [![Twitch](https://img.shields.io/badge/-ver%20en%20Twitch-9146FF?logo=Twitch&logoColor=white)](https://twitch.tv/carlosazaustre)
+##### 👨🏻‍💻 Desarrollador Fullstack JavaScript.🏅 Google Developer Expert (GDE) en Tecnologías Web. Dale a "seguir" o "follow" para que Twitch te avise cuando empiece stream
+
+#### Tecnologías
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+#### Horario
+
+***
+
+## oscarmartindev [![Twitch](https://img.shields.io/badge/-ver%20en%20Twitch-9146FF?logo=Twitch&logoColor=white)](https://twitch.tv/oscarmartindev)
+##### Hola, soy Óscar Martín 😀 Actualmente programador móvil freelance, y llevo en IT desde algo más de 4 años. ¿Qué encontrarás aquí? Conversaciones con gente de la comunidad: me gusta muuuucho hablar. Live Coding: ahora estoy inmerso en Flutter, por lo que además de hacer directos en el canal de Flutter España quizás haga directos por aquí
+
+#### Tecnologías
+![](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=white)
+#### Horario
+
+***
+
+## pablosirera [![Twitch](https://img.shields.io/badge/-ver%20en%20Twitch-9146FF?logo=Twitch&logoColor=white)](https://twitch.tv/pablosirera)
+
+##### Soy Desarrollador web 💻 actualmente enfocado al ecosistema de Javascript con Vue y Nuxt. En mi ratos libres hago directos en twitch sobre programación.
+#### Tecnologías
+![](https://img.shields.io/badge/-Javascript-F7DF1E?logo=Javascript&logoColor=white)
+![](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)
+
+#### Horario
