@@ -107,8 +107,8 @@ Hagamos crecer la comunidad en Twitch!
 
 ***
 
-## twodevs [![Twitch](https://img.shields.io/badge/-ver%20en%20Twitch-9146FF?logo=Twitch&logoColor=white)](https://www.twitch.tv/twodevs)
+## borjagodoy [![Twitch](https://img.shields.io/badge/-ver%20en%20Twitch-9146FF?logo=Twitch&logoColor=white)](https://www.twitch.tv/borjagodoy)
 
-##### 
+##### Developer, viajero, cocinilla y enrreda, me gusta compartir mis experiencias con estas cosas, te unes?Los jueves La tarde de cacharreo.Los miercoles La entrevista de twitch.Entrevistamos a perfiles destacados de la comunidad, será una charla distendida como si estuviéramos en un bar
 #### Tecnologías
 #### Horario
